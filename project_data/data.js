@@ -13,4 +13,4 @@ data.fontSize = 30;
 data.textHeight = 35;
 
 // the lower the faster
-data.typeSpeed = 1.5;
+data.typeSpeed = 1;
