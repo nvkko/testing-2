@@ -8,9 +8,9 @@ data.thirdTxt = '> Experience Now <';
 
 data.link = 'https://nvkko.com/'
 
-data.fontSize = 30;
+data.fontSize = 25;
 
-data.textHeight = 35;
+data.textHeight = 29;
 
 // the lower the faster
-data.typeSpeed = 2;
+data.typeSpeed = 1;
