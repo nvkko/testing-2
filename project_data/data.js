@@ -6,7 +6,7 @@ data.secondTxt = 'the journey has just begun...';
 
 data.thirdTxt = '> Experience Now <';
 
-data.link = 'https://www.fiverr.com'
+data.link = 'https://nvkko.com/'
 
 data.fontSize = 30;
 
